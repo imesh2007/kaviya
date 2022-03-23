@@ -117,19 +117,8 @@ input[type=checkbox]{
   background-color: #4c9e9e;
  }
  }
- .header1 {
-   color: rgb(255, 255, 255);
-   font-size: 50px;
-   text-align: center;
-   font-family: 'M PLUS Rounded 1c', sans-serif;
-   text-decoration: underline;
- }
- .p1 {
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
- }
  .active {
-  background-color: #4c9e9e;
-  border-radius: 5px;
-  padding: 5px 20px;
+    background-color: #4c9e9e;
+    border-radius: 5px;
+    padding: 5px 20px;
  }
