@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=M+PLUS+Rounded+1c:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=M+PLUS+Rounded+1c:wght@500&family=Raleway:wght@100&display=swap');
 /* UTILITIES */
 * {
   margin: 0;
@@ -125,8 +124,7 @@ input[type=checkbox]{
    font-family: 'M PLUS Rounded 1c', sans-serif;
    text-decoration: underline;
  }
- .img1 {
-   height: 100vh;
-   align-items: center;
-   
+ .p1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
  }
