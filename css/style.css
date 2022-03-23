@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=M+PLUS+Rounded+1c:wght@500&display=swap');
 
 /* UTILITIES */
 * {
@@ -122,5 +122,11 @@ input[type=checkbox]{
    color: rgb(255, 255, 255);
    font-size: 50px;
    text-align: center;
-   /* font-family: 'Bebas Neue', cursive; */
+   font-family: 'M PLUS Rounded 1c', sans-serif;
+   text-decoration: underline;
+ }
+ .img1 {
+   height: 300px;
+   align-items: center;
+   
  }
