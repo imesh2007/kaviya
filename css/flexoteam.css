@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   color: white;
+  font-family: 'Bebas Neue', cursive
  }
  body {
   font-family: 'Bebas Neue', cursive;
@@ -122,3 +123,7 @@ input[type=checkbox]{
     border-radius: 5px;
     padding: 5px 14px;
  }
+ .zikkamalli {
+     background-color: red;
+ }
+ 
